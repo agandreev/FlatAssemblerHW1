@@ -39,12 +39,15 @@ Andreev Arkadiy BSE192
 
 2) Ввод отрицательного числа
 ![ScreenShot](Factorial/negative.jpg?raw=true)
+Программа завершилась некорректно.
 
 3) Ввод нуля
 ![ScreenShot](Factorial/zero.jpg?raw=true)
+Программа завершилась некорректно.
 
 4) Ввод некорректного числа
 ![ScreenShot](Factorial/letter.jpg?raw=true)
+Программа завершилась некорректно.
 
 ## PrimeNumbers
 Программа определяет простоту введенного пользователем числа.
