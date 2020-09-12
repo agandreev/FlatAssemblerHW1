@@ -18,10 +18,10 @@ Andreev Arkadiy BSE192
 ![](https://github.com/agandreev/FlatAssemblerHW1/blob/master/Calculator/zero.jpg?raw=true)
 Программа завершилась некорректно.
 
-## ConstComparison
+ConstComparison
 Программа сравнивает введенное пользователем число с заранее заданной константой (в данном случае с числом 100).
 1) Ввод большего числа
-![](https://github.com/agandreev/FlatAssemblerHW1/tree/master/ConstComparison/greater.jpg?raw=true)
+![](https://github.com/agandreev/FlatAssemblerHW1/tree/master/ConstComparison/greater.jpg)
 
 2) Ввод равного числа
 ![](https://github.com/agandreev/FlatAssemblerHW1/tree/master/ConstComparison/equal.jpg?raw=true)
