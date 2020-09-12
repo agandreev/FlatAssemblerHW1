@@ -49,7 +49,7 @@ Andreev Arkadiy BSE192
 ## PrimeNumbers
 Программа определяет простоту введенного пользователем числа.
 1) Ввод простого числа
-![ScreenShot](PrimeNumbers/prime?raw=true)
+![ScreenShot](PrimeNumbers/prime.jpg?raw=true)
 
 2) Ввод непростого числа
 ![ScreenShot](PrimeNumbers/notPrime.jpg?raw=true)
@@ -63,7 +63,7 @@ Andreev Arkadiy BSE192
 ## StringComparison
 Программа сравнивает две строки, введенные пользователем.
 1) Ввод одинаковых строк
-![ScreenShot](StringComparison/equal?raw=true)
+![ScreenShot](StringComparison/equal.jpg?raw=true)
 
 2) Ввод разных строк
 ![ScreenShot](StringComparison/unequal.jpg?raw=true)
